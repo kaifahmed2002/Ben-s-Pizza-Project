@@ -25,5 +25,23 @@ The project utilizes QuickDBD, a database design tool, to construct a graphical 
 
 ![Screenshot (1091)](https://github.com/kaifahmed2002/Ben-s-Pizza-Project/assets/92524691/b12629ce-140e-4406-95c4-68a74744bc7c)
 
+## Dashboards
+The project incorporates Looker Studio in tandem with Google Cloud Console. Looker Studio facilitates the creation of interactive dashboards for monitoring business performance, while integration with Google Cloud Console ensures secure and scalable data storage and processing capabilities.
 
+### Dashboard 1: Orders
+The initial Looker dashboard provides a visual overview of order-related insights, including total orders, sales, items, and average order value. Sales distribution by product is depicted in a pie chart, while total sales by product subcategory are displayed in a bar graph. Another pie chart distinguishes orders with and without delivery. A line graph showcases the flow of total orders and sales hourly, and a map pinpoints order locations for a geographic perspective on distribution.
 
+![1_page-0001](https://github.com/kaifahmed2002/Ben-s-Pizza-Project/assets/92524691/4570966f-75a2-4181-8ce9-ff8cc70597e5)
+
+### Dashboard 2: Inventory
+The subsequent Looker dashboard focuses on inventory metrics, illustrating ingredient costs, total quantity, total cost, and the percentage of remaining inventory. It also calculates the cost of each pizza based on ingredient costs, aiding the team in monitoring inventory health and making informed decisions regarding ingredient procurement and usage.
+
+![2_page-0001](https://github.com/kaifahmed2002/Ben-s-Pizza-Project/assets/92524691/ab3b3609-ac99-48bb-977c-1af43843dda9)
+
+### Dashboard 3: Staff
+The third Looker dashboard offers insights into staffing costs and hours worked, visually presenting staff costs, total hours worked, and other staffing details. This information assists in optimizing workforce management, ensuring alignment of staffing resources with peak hours of operation.
+
+![3_page-0001](https://github.com/kaifahmed2002/Ben-s-Pizza-Project/assets/92524691/9ac260c2-8ed7-4c84-a38f-2851b86a29ed)
+
+Try Dynamic Dashboard 👇
+https://lookerstudio.google.com/reporting/56ffe238-2d1a-4245-ac57-8b2c7fa0f5c5
