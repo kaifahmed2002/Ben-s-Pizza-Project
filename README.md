@@ -23,3 +23,7 @@ The project implemented normalization techniques within Excel to enhance data in
 ### Database Design Tools
 The project utilizes QuickDBD, a database design tool, to construct a graphical depiction of the database schema. With QuickDBD, users define tables along with their respective fields, generating a comprehensive diagram illustrating the database structure and its constituent tables.
 
+![Screenshot (1091)](https://github.com/kaifahmed2002/Ben-s-Pizza-Project/assets/92524691/b12629ce-140e-4406-95c4-68a74744bc7c)
+
+
+
